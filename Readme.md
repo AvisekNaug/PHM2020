@@ -1,6 +1,4 @@
-# Work for PHM2020 Special Session on Smart Cities
-
-[PHM 2020 Website](https://www.phmsociety.org/events/conference/phm/20)
+# Submission for [PHM 2020](https://www.phmsociety.org/events/conference/phm/20) Special Session on Smart Cities
 
 1. Clone repository
 ```bash
@@ -28,6 +26,6 @@ jupyter nbextensions_configurator enable --user
 
 5. Launch notebook
 ```bash
-jupyter notebookgit add Rea
+jupyter notebook
 ```
 
